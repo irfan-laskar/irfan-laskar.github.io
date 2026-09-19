@@ -202,7 +202,7 @@ const projectData = {
     solution: 'Engineered an asynchronous streaming pipeline with WebSocket push alerts, edge caching, and automated LLM prompt synthesis for intuitive data exploration.',
     techStack: ['React', 'TypeScript', 'Node.js', 'Google BigQuery', 'Python', 'TailwindCSS'],
     liveDemo: '#',
-    github: 'https://github.com/prine3516-hash'
+    github: 'https://github.com/irfan-laskar'
   },
   '2': {
     title: 'CloudOps — Multi-Cluster Kubernetes Topology Monitor',
@@ -213,7 +213,7 @@ const projectData = {
     solution: 'Designed an interactive node graph with real-time health diagnostics, latency threshold triggers, and automated auto-scaler triggers.',
     techStack: ['JavaScript ES6+', 'Go', 'Docker', 'Kubernetes', 'Prometheus', 'WebSockets'],
     liveDemo: '#',
-    github: 'https://github.com/prine3516-hash'
+    github: 'https://github.com/irfan-laskar'
   },
   '3': {
     title: 'Nexus Fintech — Global Multi-Currency Digital Banking',
@@ -224,7 +224,7 @@ const projectData = {
     solution: 'Implemented client-side optimistic UI updates, biometric authentication workflows, and a responsive glassmorphic design system.',
     techStack: ['Vue.js', 'TailwindCSS', 'Express.js', 'PostgreSQL', 'Stripe API'],
     liveDemo: '#',
-    github: 'https://github.com/prine3516-hash'
+    github: 'https://github.com/irfan-laskar'
   }
 };
 
