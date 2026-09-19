@@ -407,7 +407,7 @@ function initContactForm() {
     const email = emailInput.value.trim();
     const subject = encodeURIComponent(`Portfolio Inquiry: ${subjectInput.value.trim()} (from ${name})`);
     const body = encodeURIComponent(
-      `Hi Prince,\n\n${messageInput.value.trim()}\n\n---\nSender Details:\nName: ${name}\nEmail: ${email}`
+      `Hi Irfan,\n\n${messageInput.value.trim()}\n\n---\nSender Details:\nName: ${name}\nEmail: ${email}`
     );
     const mailtoUrl = `mailto:${recipient}?subject=${subject}&body=${body}`;
 

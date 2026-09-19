@@ -1,4 +1,4 @@
-# prince.dev — Modern Developer Portfolio
+# irfan.dev — Modern Developer Portfolio
 
 A responsive, high-performance personal developer portfolio website engineered with **HTML5**, **CSS3**, and **Vanilla JavaScript**.
 
